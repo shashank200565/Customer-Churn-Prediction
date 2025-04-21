@@ -4,6 +4,7 @@ I made this project using Neural Networks to train data to predict whether a hol
 Dataset used - https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction
 
 -Total Entries (Rows): 10,000
+
 -Total Features (Columns): 14 (including the target variable)
 
 The features in this dataset are 
