@@ -1,5 +1,8 @@
 # Customer-Churn-Prediction
 I made this project using Neural Networks to train data to predict whether a holder is likely to exit the bank or not
+Dataset used - https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction
+-Total Entries (Rows): 10,000
+-Total Features (Columns): 14 (including the target variable)
 The features in this dataset are 
 - Customer ID
 - Surname
@@ -21,3 +24,5 @@ For model training, I implemented a neural network with two hidden layers, each 
 I trained the model for 100 epochs and further split the training data into training and validation sets. During training, I monitored the loss and accuracy metrics for both the training and validation data.
 The model achieved an accuracy of 86.35%.
 I also plotted the training and validation loss, which showed that both decreased similarly during the initial epochs. However, the validation loss eventually plateaued and remained slightly higher than the training loss. Similarly, the validation accuracy stopped improving a bit earlier compared to the training accuracy, as observed in the accuracy plot.
+
+From this project I learnt and understood the basics and working of Neural Networks and Deep Learning models.This was also helpful in understanding these concepts in practicality.
