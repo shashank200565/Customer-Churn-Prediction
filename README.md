@@ -29,4 +29,4 @@ I trained the model for 100 epochs and further split the training data into trai
 The model achieved an accuracy of 86.35%.
 I also plotted the training and validation loss, which showed that both decreased similarly during the initial epochs. However, the validation loss eventually plateaued and remained slightly higher than the training loss. Similarly, the validation accuracy stopped improving a bit earlier compared to the training accuracy, as observed in the accuracy plot.
 
-From this project I learnt and understood the basics and working of Neural Networks and Deep Learning models.This was also helpful in understanding these concepts in practicality.
+Through this project, I gained a foundational understanding of Neural Networks and Deep Learning models. It also helped me grasp how these concepts are applied in practical scenarios.
