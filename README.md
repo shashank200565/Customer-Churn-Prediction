@@ -11,7 +11,7 @@ The features in this dataset are
 - Customer ID
 - Surname
 - CreditScore
-- Geography
+- Geography 
 - Gender
 - Age
 - Tenure
