@@ -5,7 +5,7 @@ Dataset used - https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-chur
 
 -Total Entries (Rows): 10,000
 
--Total Features (Columns): 14 (including the target variable)
+-Total Features (Columns): 14 (including the target variable)     
 
 The features in this dataset are 
 - Customer ID
