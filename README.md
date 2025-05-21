@@ -8,7 +8,7 @@ Dataset used - https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-chur
 -Total Features (Columns): 14 (including the target variable)     
 
 The features in this dataset are 
-- Customer ID
+- Customer ID    
 - Surname
 - CreditScore
 - Geography 
